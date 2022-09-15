@@ -1,6 +1,6 @@
 
 
-<img src="https://hermes.digitalinnovation.one/tracks/7df7e300-b035-4b09-a7ad-34d1cb18f9a6.png" title="" alt="Logo_bootcamp] ([7df7e300-b035-4b09-a7ad-34d1cb18f9a6.png (777×752) (digitalinnovation.one)" data-align="inline">
+<img src="https://hermes.digitalinnovation.one/tracks/7df7e300-b035-4b09-a7ad-34d1cb18f9a6.png" title="" alt="Logo_bootcamp] ([7df7e300-b035-4b09-a7ad-34d1cb18f9a6.png (200×100) (digitalinnovation.one)" data-align="inline">
 
 # DATABASE EXPERIENCE
 
